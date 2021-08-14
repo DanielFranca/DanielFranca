@@ -1,4 +1,4 @@
-### Hi there, i am Daniel França; 👋
+### Hi there, i'm Daniel França; 👋
 
 - 🌱 I’m currently learning  Javascript, Python e FullStack;
 - 📫 How to reach me: Daniel.anunciacao21@gmail.com / https://www.linkedin.com/in/daniel-fran%C3%A7a-186469179/
