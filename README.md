@@ -1,8 +1,8 @@
 ### Hi there, i'm Daniel França; 👋
 
 - 🌱 I’m currently learning  JavaScript, HTML, CSS, C, Java, and Python;
-- 📫 How to reach me: Daniel.anunciacao21@gmail.com / https://www.linkedin.com/in/daniel-fran%C3%A7a-186469179/
-- 18 anos ;
+- 📫 How to reach me: danielfranca.tech@gmail.com / https://www.linkedin.com/in/daniel-fran%C3%A7a-186469179/
+- 19 anos ;
 
 <div>
   <a href="https://github.com/DanielFranca">
