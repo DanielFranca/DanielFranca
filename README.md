@@ -1,8 +1,7 @@
 ### Hi there, i'm Daniel França; 👋
 
-- 🌱 I’m currently learning  Kotlin, JavaScript, HTML, CSS, C, Java and Python;
 - 📫 How to reach me: danielfranca.tech@gmail.com / https://www.linkedin.com/in/daniel-fran%C3%A7a-186469179/
-- 20 anos ;
+- 22 anos ;
 
 <div>
   <a href="https://github.com/DanielFranca">
